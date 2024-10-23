@@ -1,0 +1,313 @@
+[
+     {
+       "name": "Le Male",
+       "producer": "Jean Paul Gaultier",
+       "image_url": "https://static.thcdn.com/images/large/original/productimg/1600/1600/10021723-6624606672048932.jpg",
+       "price": {
+         "2ml": "35 PLN",
+         "5ml": "80 PLN",
+         "10ml": "150 PLN"
+       }
+     },
+     {
+       "name": "Ultra Male",
+       "producer": "Jean Paul Gaultier",
+       "image_url": "https://cdn.flaconi.pl/media/catalog/product/j/e/jean-paul-gaultier-ultra-male-intense-eau-de-toilette-75-ml-8435415011990.jpg",
+       "price": {
+         "2ml": "40 PLN",
+         "5ml": "90 PLN",
+         "10ml": "160 PLN"
+       }
+     },
+     {
+       "name": "Scandal",
+       "producer": "Jean Paul Gaultier",
+       "image_url": "https://cdn.flaconi.pl/media/catalog/product/8/4/8435415065207_c.jpg?r=1Sp0xZ",
+       "price": {
+         "2ml": "45 PLN",
+         "5ml": "100 PLN",
+         "10ml": "180 PLN"
+       }
+     },
+     {
+       "name": "Stronger With You",
+       "producer": "Emporio Armani",
+       "image_url": "https://madeinlab.pl/img/product_media/1-1000/ARMANI_STRONGER_WITH_YOU.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "200 PLN"
+       }
+     },
+     {
+       "name": "Armani Code",
+       "producer": "Giorgio Armani",
+       "image_url": "https://www.sephora.pl/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwf3f7e41c/images/hi-res/PID_principal/PID_principal_2882/P10043241_principal.jpg?sw=585&sh=585&sm=fit",
+       "price": {
+         "2ml": "55 PLN",
+         "5ml": "120 PLN",
+         "10ml": "210 PLN"
+       }
+     },
+     {
+       "name": "Boss Bottled",
+       "producer": "Hugo Boss",
+       "image_url": "https://static.thcdn.com/images/large/original//productimg/1600/1600/11858153-1135172426309987.jpg",
+       "price": {
+         "2ml": "40 PLN",
+         "5ml": "85 PLN",
+         "10ml": "160 PLN"
+       }
+     },
+     {
+       "name": "Herod",
+       "producer": "Parfums de Marly",
+       "image_url": "https://tigerandbear.pl/userdata/public/gfx/39966/Parfums-de-Marly-Herod---woda-perfumowana.jpg",
+       "price": {
+         "2ml": "60 PLN",
+         "5ml": "130 PLN",
+         "10ml": "230 PLN"
+       }
+     },
+     {
+       "name": "Sauvage",
+       "producer": "Dior",
+       "image_url": "https://www.sephora.pl/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw6a368c04/images/hi-res/PID_principal/PID_principal_322/P3220029_principal.jpg?sw=585&sh=585&sm=fit",
+       "price": {
+         "2ml": "45 PLN",
+         "5ml": "100 PLN",
+         "10ml": "190 PLN"
+       }
+     },
+     {
+       "name": "Homme",
+       "producer": "Dior",
+       "image_url": "https://image.ceneostatic.pl/data/products/90970046/p-christian-dior-dior-homme-woda-toaletowa-100-ml.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "200 PLN"
+       }
+     },
+     {
+       "name": "Y",
+       "producer": "Yves Saint Laurent",
+       "image_url": "https://fraguru.com/mdimg/perfume/375x500.79243.jpg",
+       "price": {
+         "2ml": "55 PLN",
+         "5ml": "120 PLN",
+         "10ml": "220 PLN"
+       }
+     },
+     {
+       "name": "MYSELF",
+       "producer": "Yves Saint Laurent",
+       "image_url": "https://www.sephora.pl/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwa43f283d/images/hi-res/SKU/SKU_4389/701839_swatch.jpg?sw=585&sh=585&sm=fit",
+       "price": {
+         "2ml": "60 PLN",
+         "5ml": "130 PLN",
+         "10ml": "230 PLN"
+       }
+     },
+     {
+       "name": "La'homme",
+       "producer": "Yves Saint Laurent",
+       "image_url": "https://francuskieperfumy.pl/20186-res5_produkt/yves-saint-laurent-l-homme.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "115 PLN",
+         "10ml": "210 PLN"
+       }
+     },
+     {
+       "name": "Greenley",
+       "producer": "Parfums de Marly",
+       "image_url": "https://www.sephora.com.kw/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwadff6526/images/hi-res/SKU/SKU_4200/692683_swatch.jpg?sw=585&sh=585&sm=fit",
+       "price": {
+         "2ml": "65 PLN",
+         "5ml": "135 PLN",
+         "10ml": "250 PLN"
+       }
+     },
+     {
+       "name": "Layton",
+       "producer": "Parfums de Marly",
+       "image_url": "https://fraguru.com/mdimg/perfume/375x500.46633.jpg",
+       "price": {
+         "2ml": "70 PLN",
+         "5ml": "140 PLN",
+         "10ml": "260 PLN"
+       }
+     },
+     {
+       "name": "Prada L'Homme",
+       "producer": "Prada",
+       "image_url": "https://www.sephora.pl/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwce2cd1c9/images/hi-res/SKU/SKU_5/360495_swatch.jpg?sw=585&sh=585&sm=fit",
+       "price": {
+         "2ml": "55 PLN",
+         "5ml": "120 PLN",
+         "10ml": "220 PLN"
+       }
+     },
+     {
+       "name": "Invictus",
+       "producer": "Paco Rabanne",
+       "image_url": "https://alepachniesz.pl/userdata/public/gfx/943/Paco-Rabanne-Invictus-EDT.jpg",
+       "price": {
+         "2ml": "45 PLN",
+         "5ml": "105 PLN",
+         "10ml": "195 PLN"
+       }
+     },
+     {
+       "name": "One Million",
+       "producer": "Paco Rabanne",
+       "image_url": "https://cdn1.neness.pl/218979-large_default/paco-rabanne-1-million-100-ml-dla-mezczyzn.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "200 PLN"
+       }
+     },
+     {
+       "name": "Terre d'Hermès",
+       "producer": "Hermès",
+       "image_url": "https://image.ceneostatic.pl/data/products/3871991/p-hermes-terre-d-hermes-woda-perfumowana-75ml.jpg",
+       "price": {
+         "2ml": "60 PLN",
+         "5ml": "130 PLN",
+         "10ml": "240 PLN"
+       }
+     },
+     {
+       "name": "Bleu de Chanel",
+       "producer": "Chanel",
+       "image_url": "https://www.chanel.com/images//t_one/t_fragrance//q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9539149398046.jpg",
+       "price": {
+         "2ml": "55 PLN",
+         "5ml": "125 PLN",
+         "10ml": "230 PLN"
+       }
+     },
+     {
+       "name": "Luna Rossa Carbon",
+       "producer": "Prada",
+       "image_url": "https://fraguru.com/mdimg/perfume/375x500.43402.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "115 PLN",
+         "10ml": "210 PLN"
+       }
+     },
+     {
+       "name": "Light Blue",
+       "producer": "Dolce & Gabbana",
+       "image_url": "https://fraguru.com/mdimg/perfume/375x500.44035.jpg",
+       "price": {
+         "2ml": "45 PLN",
+         "5ml": "100 PLN",
+         "10ml": "190 PLN"
+       }
+     },
+     {
+       "name": "The One",
+       "producer": "Dolce & Gabbana",
+       "image_url": "https://laneperfumy.pl/6054-large_default/the-one-for-men-dg-woda-toaletowa-50-ml.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "200 PLN"
+       }
+     },
+     {
+       "name": "Aventus",
+       "producer": "Creed",
+       "image_url": "https://www.perfumeria-arcadia.pl/public/upload/sellasist_cache/thumb_xlarge_1820c6e9cf39bcaddc830bdd58377c4e.jpg",
+       "price": {
+         "2ml": "80 PLN",
+         "5ml": "160 PLN",
+         "10ml": "300 PLN"
+       }
+     },
+     {
+       "name": "Original Santal",
+       "producer": "Creed",
+       "image_url": "https://sklep.mybeauty.com.pl/media/products/99734e3dcf4cf32fd1096141f84be791/images/thumbnail/big_santal.png?lm=1657962467",
+       "price": {
+         "2ml": "75 PLN",
+         "5ml": "150 PLN",
+         "10ml": "280 PLN"
+       }
+     },
+     {
+       "name": "Explorer",
+       "producer": "Montblanc",
+       "image_url": "https://perfumy.pl/pol_pl_Montblanc-Explorer-woda-perfumowana-200-ml-14570_1.jpg",
+       "price": {
+         "2ml": "40 PLN",
+         "5ml": "90 PLN",
+         "10ml": "170 PLN"
+       }
+     },
+     {
+       "name": "Legend",
+       "producer": "Montblanc",
+       "image_url": "https://m.media-amazon.com/images/I/61IJbLMmD+L._AC_UF1000,1000_QL80_.jpg",
+       "price": {
+         "2ml": "35 PLN",
+         "5ml": "80 PLN",
+         "10ml": "160 PLN"
+       }
+     },
+     {
+       "name": "Spicebomb",
+       "producer": "Viktor & Rolf",
+       "image_url": "https://cdn.flaconi.pl/media/catalog/product/3/6/3614270659652.jpg",
+       "price": {
+         "2ml": "55 PLN",
+         "5ml": "120 PLN",
+         "10ml": "220 PLN"
+       }
+     },
+     {
+       "name": "Man in Black",
+       "producer": "Bvlgari",
+       "image_url": "https://fraguru.com/mdimg/perfume/375x500.33651.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "210 PLN"
+       }
+     },
+     {
+       "name": "Eros",
+       "producer": "Versace",
+       "image_url": "https://www.koku.pl/buxus/images/products/3351865_47460521678768261.jpg",
+       "price": {
+         "2ml": "45 PLN",
+         "5ml": "100 PLN",
+         "10ml": "190 PLN"
+       }
+     },
+     {
+       "name": "Dylan Blue",
+       "producer": "Versace",
+       "image_url": "https://static3.sabinacdn.com/7343-thickbox_default/pour-homme-dylan-blue-versace.jpg",
+       "price": {
+         "2ml": "50 PLN",
+         "5ml": "110 PLN",
+         "10ml": "200 PLN"
+       }
+     },
+     {
+       "name": "Club de Nuit Intense",
+       "producer": "Armaf",
+       "image_url": "https://image.ceneostatic.pl/data/article_picture/96/b9/219e-5eaa-40d8-ae34-38fc087cbd1b_large.jpg",
+       "price": {
+         "2ml": "40 PLN",
+         "5ml": "90 PLN",
+         "10ml": "180 PLN"
+       }
+     }
+   ]
+ 
